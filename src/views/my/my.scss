@@ -1,0 +1,18 @@
+.my_detail{
+    width: 150px;
+    margin: 0 auto;
+    .my_pic{
+        display: block;
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+    }
+    .my_name{
+        display: block;
+        margin-top: 20px;
+    }
+}
+.my_no{
+    margin: 20px auto;
+    text-align: center;
+}

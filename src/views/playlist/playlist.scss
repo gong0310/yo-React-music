@@ -1,0 +1,19 @@
+.playlist{
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    background-color: #fff;
+    .header{
+        height: 50px;
+        line-height: 50px;
+        background-color: #A65D47;
+        padding-left: 10px;
+        .icon{
+            transform: translateY(25%);
+        }
+        span{
+            margin-left: 10px;
+        }
+    }
+}

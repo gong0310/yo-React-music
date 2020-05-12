@@ -1,0 +1,19 @@
+.music-list {
+    .song-list {
+        .play-btn {
+            display: inline-block;
+            width: 22px;
+            height: 22px;
+            background: url(../../source/icon/index_icon_2x.png) no-repeat;
+            background-position: -24px 0;
+            background-size: 166px 97px;
+        }
+        .song-alias {
+            color: #888;
+        }
+        .am-list-brief {
+            margin: 0;
+            font-size: 12px;
+        }
+    }
+}

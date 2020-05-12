@@ -1,0 +1,117 @@
+.foot_index {
+    width: 100%;
+    height: 76px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.footer {
+    width:100%;
+    height: 100%;
+    background-color: #CE1C1A;
+    position: absolute;
+    bottom: 0;
+    left:0;
+    z-index: 9;
+}
+
+.footer_img {
+    width:60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #333;
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+
+.footer_text {
+    display: inline-block;
+    position: absolute;
+    color: #000;
+    width: 300px;
+    height: 50px;
+    top: 5px;
+    left: 110px;
+    font-size: 16px;
+    line-height: 50px;
+    overflow: hidden;
+}
+
+.footer_text2 {
+    display: inline-block;
+    position: absolute;
+    color: #666;
+    width: 300px;
+    height: 30px;
+    top: 35px;
+    left: 110px;
+    font-size: 12px;
+    line-height: 30px;
+    overflow: hidden;
+}
+
+.footer_play {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 25px;
+    right: 65px;
+    background-image: url(../../source/icon/pl.png);
+    background-size: 100%;
+}
+.footer_pasue{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 25px;
+    right: 65px;
+    background-image: url(../../source/icon/st.png);
+    background-size: 100%;
+}
+.footer_up{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 30px;
+    right: 40px;
+    background-image: url(../../source/icon/music_up.png);
+    background-size: 100%;
+}
+.footer_back{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 30px;
+    right: 100px;
+    background-image: url(../../source/icon/music_back.png);
+    background-size: 100%;
+}
+.footer_list{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 30px;
+    right: 10px;
+    background-image: url(../../source/icon/list.png);
+    background-size: 100%;
+}
+.playmode{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 30px;
+    right: 120px;
+    background-image: url(../../source/icon/looper1.png);
+    background-size: 100%;
+}
+.playmode2{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 30px;
+    right: 120px;
+    background-image: url(../../source/icon/looper2.png);
+    background-size: 100%;
+}
