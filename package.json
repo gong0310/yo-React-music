@@ -10,7 +10,7 @@
     "axios": "^0.19.2",
     "better-scroll": "^1.15.2",
     "lyric-parser": "^1.0.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-player": "^2.0.1",
